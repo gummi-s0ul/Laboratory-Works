@@ -1,6 +1,6 @@
 package lab_work1;
 
-public class Task_7 {
+public class Task7 {
     public static void main(String[] args) {
         FactorialCounter factorial = new FactorialCounter();
 
