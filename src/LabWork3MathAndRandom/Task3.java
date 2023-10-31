@@ -1,4 +1,4 @@
-package lab_work3_math_and_random;
+package LabWork3MathAndRandom;
 
 import java.util.Arrays;
 import java.util.Random;

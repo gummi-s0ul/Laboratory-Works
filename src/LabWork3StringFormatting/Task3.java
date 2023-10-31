@@ -1,4 +1,4 @@
-package lab_work3_string_formatting;
+package LabWork3StringFormatting;
 
 import java.text.DecimalFormat;
 

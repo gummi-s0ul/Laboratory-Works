@@ -1,4 +1,4 @@
-package lab_work3_wrapper_classes;
+package LabWork3WrapperClasses;
 
 public class Task1 {
     public static void main(String[] args) {
