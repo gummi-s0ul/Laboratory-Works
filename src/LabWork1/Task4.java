@@ -8,13 +8,15 @@ public class Task4 {
 
         int[] arr = new int[5];
 
-        for (int i = 0; i < arr.length; i++) {
-            System.out.println("Enter number: ");
-            arr[i] = scanner.nextInt();
+        try {
+            for (int i = 0; i < arr.length; i++) {
+                System.out.println("Enter number: ");
+                arr[i] = scanner.nextInt();
+            }
+        } finally {
+            scanner.close();
         }
-
-        scanner.close();
-
+        
         int arrLen = arr.length - 1;
 
         int arrSum = 0;
